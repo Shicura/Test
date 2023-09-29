@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Try"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Try"
+	}
+}
